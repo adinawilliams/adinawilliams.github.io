@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Linguistics, NLP, Cognitive Science"
   location         : "New York City"
-  employer         : "https://ai.facebook.com/people/adina-williams"
+  employer         : <a href="https://ai.facebook.com/people/adina-williams">FAIR</a>
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=MUtbKt0AAAAJ"
   email            :
