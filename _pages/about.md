@@ -8,8 +8,6 @@ redirect_from:
   - /about.html	
 ---
 
-**About Me**
-
 I am a linguist interested in the (un-)humanlike-ness of artificially "intelligent" models for natural language. Most of my research falls into a few main directions. First, much of my work evaluates whether deep neural networks are reasonable cognitive models of the human language faculty and of human language processing. Second, I collect and curate datasets for training models on particular natural language understanding tasks and testing how well they do. Third, I have some research on finding and lessening the social biases in NLP models, to make them safer, more inclusive, and more equitable. I also enjoy theoretical questions about the nature of language, the structure of the human language faculty, the relationship(s) between meaning and form, and the abstract computations that undergird language. 
 
 I am a research scientist at the [Fundamental AI Research Laboratories (FAIR Labs) at Meta Platforms, Inc.](https://ai.facebook.com/people/adina-williams) in New York City. I recieved my PhD in [Linguistics from New York University](https://as.nyu.edu/departments/linguistics/homepage.html). Before that, I did a MA in [Linguistics at Michigan State University](https://lilac.msu.edu/linguistics/), and a BSc in [Neuroscience](https://lsa.umich.edu/neurosci) and [Asian Studies (Chinese)](https://lsa.umich.edu/asian) at the University of Michigan.
