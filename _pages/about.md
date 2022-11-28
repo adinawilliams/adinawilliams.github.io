@@ -8,7 +8,7 @@ redirect_from:
   - /about.html	
 ---
 
-My work focuses on computational linguistics and natural language processing. Much of my time is spent on creating better tools and benchmarks to evaluate models for language, and/or on cognitive modeling. I am also interested in measuring social biases in NLP models, and in making them safer, more inclusive, and more equitable. 
+My work focuses on computational linguistics and natural language processing. Much of my time is spent on creating better tools and benchmarks to evaluate models for language, and/or on cognitive modeling. I am also interested in measuring social biases in NLP models, and in making them safer, more inclusive, and more equitable. See my [Google Scholar](https://scholar.google.com/citations?user=MUtbKt0AAAAJ&hl=en&oi=ao) profile for an updated publications list.
 
 My background is in linguistics, so I also enjoy theoretical questions about the structure of the human language faculty, the characterization of the abstract computations that undergird language, and the relationship(s) between meaning and form. 
 
